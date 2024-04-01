@@ -1,6 +1,6 @@
-spring:
-  application:
-    name: anime-world-qa-profile-configs
+# spring:
+#   application:
+#     name: anime-world-qa-profile-configs
 
 eureka:
   instance:
